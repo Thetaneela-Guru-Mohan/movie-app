@@ -1,0 +1,12 @@
+.loading-indicator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; // Make it cover the full viewport height
+    font-size: 24px;
+    color: #007bff;
+
+    i {
+        margin-right: 10px; // Space between the spinner and text
+    }
+}
