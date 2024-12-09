@@ -1,3 +1,11 @@
+# Skills
+Here are the skills I used in this project:
+- React.js
+- Redux
+- JavaScript
+- HTML & CSS
+- Node.js (if used)
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
