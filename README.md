@@ -1,11 +1,28 @@
-# Skills
+# Movie App
+## Skills
 Here are the skills I used in this project:
 - React.js
 - Redux
 - JavaScript
 - HTML & CSS
 - Node.js (if used)
-  
+
+## Features
+- **Search Movies and TV Shows**: Easily search for movies and shows by title, genre, or keyword.
+- **Movie Details**: Get detailed information including cast, crew, ratings, and plot.
+- **Dynamic Search Bar**: Auto-suggestions as you type for quick results.
+- **Responsive UI**: Fully responsive design for mobile, tablet, and desktop.
+- **Loading Spinner**: A smooth loading experience while data is being fetched.
+- **Error Handling**: Proper error messages when no results are found or in case of errors.
+- **Popular Movies/Shows Section**: Displays trending movies and shows.
+- **User Authentication**: Login to save your favorite movies or shows.
+- **Movie Ratings and Reviews**: See ratings and reviews from users and critics.
+- **Watchlist Feature**: Add movies or shows to your personal watchlist.
+- **Dark Mode**: Switch between light and dark modes based on user preference.
+- **Multiple Language Support**: Choose from different languages for UI and movie details.
+- **API Integration**: Real-time data fetching from popular movie APIs (e.g., OMDB API).
+- **Detailed Filtering**: Filter movies and shows by genre, year, ratings, and more.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
